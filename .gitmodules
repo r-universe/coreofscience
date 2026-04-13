@@ -5,6 +5,3 @@
 [submodule "margaret"]
 	path = margaret
 	url = https://github.com/coreofscience/margaret
-[submodule "tosr"]
-	path = tosr
-	url = https://github.com/coreofscience/tosr
